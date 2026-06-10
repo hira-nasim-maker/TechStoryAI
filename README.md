@@ -6,7 +6,7 @@
 ## What it does
 TechStoryAI is an AI agent built on Microsoft Foundry that transforms 
 any technical scenario into 6 professional outputs in under 30 seconds.
-QA engineers and project managers describe a bug or incident — and the 
+QA engineers and project managers describe a bug — and the 
 agent generates structured documentation, content, and career assets instantly.
 
 ## The 6 outputs
@@ -24,7 +24,7 @@ agent generates structured documentation, content, and career assets instantly.
 - Zero code required
 
 ## Live Agent
-🔗 [Try TechStoryAI live](YOUR PUBLISHED FOUNDRY URL HERE)
+🔗 [Try TechStoryAI live](https://ai.azure.com/nextgen/r/ygEFnpnASKOpiT7jAzBk3w,rg-hirachaudhary_28-4810,,TechStoryAI-resource,TechStoryAI/agents/TechStoryAI/preview?version=2)
 
 ## Demo Video
 🎥 [Watch the demo](https://youtu.be/KAq5EB-dNF0)
@@ -47,5 +47,5 @@ verification times out on slow internet connections."
 - Zero extra tools needed — one input, six outputs
 
 ## Builder
-**Hirra Chaudhary**  
-QA Engineer · Startup Founder · AI Advocate · Working Mother
+**Hira Chaudhary**  
+QA Engineer · Startup Founder · AI Advocate · Working Mother .Tech Influencer
